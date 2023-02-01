@@ -14,6 +14,9 @@ button {
   color: rgb(50, 12, 221);
   background-color: blueviolet;
 }
+.btn {
+  background-color: yellow;
+}
 footer {
   background-color: salmon;
 }
@@ -22,4 +25,15 @@ footer {
 }
 .footer {
   background-color: yellow;
+}
+footer > h3 {
+  color: violet;
+}
+footer > p,
+h3,
+button {
+  font-weight: 900;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-decoration: underline;
 }
