@@ -2,4 +2,24 @@ p {
   font-family: monospace;
   font-family: 24px;
   color: green;
+  background-color: orange;
+}
+h1 {
+  font-size: 39;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: aquamarine;
+  background-color: green;
+}
+button {
+  color: rgb(50, 12, 221);
+  background-color: blueviolet;
+}
+footer {
+  background-color: salmon;
+}
+#footer {
+  background-color: blueviolet;
+}
+.footer {
+  background-color: yellow;
 }
